@@ -9,5 +9,10 @@ Note: Since our application depends heavily on user-generated data, we used Gene
 
 ## Links:
 ### Devpost Link: https://devpost.com/software/wander-vjhdyn
-### Google Colab Link: https://colab.research.google.com/drive/1jXftxf3GnJ5gGy6L0xja7xTXr8mawW_Z?usp=sharing
+### Google Colab Link: https://colab.research.google.com/drive/1e_9RLqPD9oLUmz0mkVSx6e7JSOQtIppF#scrollTo=RmDct28BgETJ
 ### Anvil: https://twin-noisy-degree.anvil.app/
+
+
+## To Run Model:
+#### Navigate to this page: https://colab.research.google.com/drive/1e_9RLqPD9oLUmz0mkVSx6e7JSOQtIppF#scrollTo=RmDct28BgETJ
+#### Follow Instructions, and Navigate to this page: https://twin-noisy-degree.anvil.app/
