@@ -14,5 +14,5 @@ Note: Since our application depends heavily on user-generated data, we used Gene
 
 
 ## To Run Model:
-#### Navigate to this page: https://colab.research.google.com/drive/1e_9RLqPD9oLUmz0mkVSx6e7JSOQtIppF#scrollTo=RmDct28BgETJ
+### Upload train - final.csv and traindatahack - charlottesville.csv into files of this Google Colab: https://colab.research.google.com/drive/1e_9RLqPD9oLUmz0mkVSx6e7JSOQtIppF#scrollTo=RmDct28BgETJ
 #### Follow Instructions, and Navigate to this page: https://twin-noisy-degree.anvil.app/
